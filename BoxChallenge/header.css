@@ -2,7 +2,10 @@
 	background-color: #CCCCCC;
 	border-bottom: 3px;
 	border-color: #0000FF;
-	padding: 20px 0 5px 140px;
-	font-size: 12pt;
+	padding: 10px 0 2px 140px;
+	font-size: 20pt;
 	float: bottom;
+}
+.def{
+	font-size: 12px;
 }

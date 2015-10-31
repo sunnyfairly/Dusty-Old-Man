@@ -1,16 +1,30 @@
 .body{
 	width: 1000px;
 	margin: auto;
-  font-size: 10pt;
+  font-size: 8pt;
   overflow: auto;
 }
 
 .call-to-action {
-  width: 220px;
-  margin: 50px 25px 0 0;
+  height: 120px;
+  width: 245px;
+  margin: 0 25px 0 0;
   border: 10px solid #CCCCCC;
   background-color: #EFEFEF;
   padding: 25px;
+  font-size: 8pt;
+  overflow: auto;
+  float: left;
+}
+.call-to-action2 {
+  height: 120px;
+  width: 245px;
+  margin-top: 0;
+  margin-right: 0;
+  border: 10px solid #CCCCCC;
+  background-color: #EFEFEF;
+  padding: 25px;
+  font-size: 8pt;
   overflow: auto;
   float: left;
 }
@@ -20,6 +34,17 @@
 }
 
 a.button {
+  margin-left: 2px;
+  background: #AAFFAA;
+  border: 2px solid #00AA00;
+  color: #005500;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 7px;
+  float: left;
+}
+a.button2 {
+  margin-left: 2px;
   background: #AAFFAA;
   border: 2px solid #00AA00;
   color: #005500;
