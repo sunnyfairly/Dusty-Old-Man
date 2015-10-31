@@ -1,0 +1,25 @@
+.call-to-action {
+  width: 250px;
+  margin: 50px 25px 0 0;
+  border: 10px solid #CCCCCC;
+  background-color: #EFEFEF;
+  padding: 25px;
+  overflow: auto;
+  float: left;
+}
+
+
+.call-to-action h2 {
+  margin-top: 0;
+}
+
+a.button {
+  background: #AAFFAA;
+  border: 2px solid #00AA00;
+  color: #005500;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 7px;
+  float: left;
+}
+
