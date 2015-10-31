@@ -1,6 +1,7 @@
 body{
+  border: 0;
   margin: 0;
-  padding: 0px;
+  padding: 0;
 }
 
 .meat{
@@ -12,6 +13,12 @@ body{
 }
 
 .call-to-action1 {
+    background-image: url('http://img2.wikia.nocookie.net/__cb20120928215348/starwars/images/thumb/a/a9/BobaFett_Sarlaac.jpg/500px-BobaFett_Sarlaac.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-position: right;
+    background-size: 300px 175px;
+    color: white;
   height: 120px;
   width: 245px;
   margin: 0 25px 0 0;
@@ -24,6 +31,12 @@ body{
 }
 
 .call-to-action2 {
+    background-image: url('http://static.srcdn.com/slir/w786-h409-q90-c786:409/wp-content/uploads/Boba-Fett-Movie-2017-Star-Wars-Anthology.jpg');
+    background-repeat: no-repeat;
+    background-attachment: inherit;
+    background-position: center;
+    background-size: 300px 175px;
+    color: blue;
   height: 120px;
   width: 245px;
   margin: 0 25px 0 0;
@@ -39,14 +52,17 @@ body{
     background-repeat: no-repeat;
     background-attachment: inherit;
     background-position: right;
+    background-size: 300px 175px;
+    color: red;  
   height: 120px;
   width: 245px;
   margin-top: 0;
   margin-right: 0;
+  border: 10px solid #CCCCCC;
   padding: 25px;
   font-size: 8pt;
   overflow: auto;
-  float: center;
+  float: right;
 }
 
 .call-to-action h2 {
