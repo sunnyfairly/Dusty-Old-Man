@@ -1,8 +1,8 @@
-.c1header {
+.c1footer {
 	background-color: #CCCCCC;
 	border-bottom: 3px;
 	border-color: #0000FF;
-	padding: 20px 0 5px 140px;
+	padding: 20px 0 5px 150px;
 	font-size: 12pt;
-	float: bottom;
+	float: top;
 }

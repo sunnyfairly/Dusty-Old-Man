@@ -1,8 +1,6 @@
 .bobafett {
-	margin-left: 1100px;
-	margin-right: 100px;
-	margin-top: 200px;
-	margin-bottom: 450px;
-	float: auto;
+	width: 200px;
+	margin: 20px;
+	float: right;
 	overflow: auto;
 }

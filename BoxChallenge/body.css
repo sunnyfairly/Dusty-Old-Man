@@ -1,6 +1,8 @@
 .body{
 	width: 1000px;
 	margin: auto;
+  font-size: 10pt;
+  overflow: auto;
 }
 
 .call-to-action {
@@ -12,7 +14,6 @@
   overflow: auto;
   float: left;
 }
-
 
 .call-to-action h2 {
   margin-top: 0;
