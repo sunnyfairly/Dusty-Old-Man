@@ -37,8 +37,8 @@ body{
 .call-to-action3 {
     background-image: url('http://static.srcdn.com/slir/w620-h320-q90-c620:320/wp-content/uploads/boba-fett-star-wars-episode-2-attack-clones.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
+    background-attachment: inherit;
+    background-position: right;
   height: 120px;
   width: 245px;
   margin-top: 0;
