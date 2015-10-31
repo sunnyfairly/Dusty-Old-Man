@@ -1,4 +1,9 @@
-.body{
+body{
+  margin: 0;
+  padding: 0px;
+}
+
+.meat{
 	width: 1000px;
 	margin: auto;
   padding: 0;
